@@ -1,4 +1,4 @@
-# django-react-nginx-mysql-docker
+# New homepage with created with Docker, react.js, django REST and MySQL.
 
 ## Modify the time for wait.sh
 
