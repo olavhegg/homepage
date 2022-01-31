@@ -28,7 +28,7 @@ export default (() => {
     }
     return (
         <div>
-            hello world
+            hello world, and welcome
             <button onClick={getAPIData}>click</button>
             {todos.map((item) => (
                 <div key={item.id}>
